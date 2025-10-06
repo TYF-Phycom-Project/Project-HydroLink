@@ -199,6 +199,7 @@
     display: flex;
     justify-content: center;
     gap: 5%;
+
 }
 
 .s-box{
@@ -223,12 +224,12 @@
     display: flex;
     justify-content: left;
     width: 60%;
-    background-color: #878787;
+    background-color: #fff;
 }
 
 
 .head-setting{
-    
+    width: 100%;
     color: #384B42;
     font-size: 1.3em;
     font-family: "Baloo Bhai 2";
@@ -243,6 +244,29 @@
     width: 0.5em;
     background-color: #48AB94;
     border-radius: 50%;
+}
+
+.sepline-b{
+    width: 43.8em;
+    height: 0.1em; 
+    background: #92A8A3;
+
+}
+
+.sett-boxes{
+    padding-top: 5em;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+
+.setting-a{
+    width: 25%;
+    height: 10em;
+    border-radius: 0.1em;
+    border: 5px solid rgba(81, 101, 91, 0.42);
+    background: #FFF;
 }
 
 .container2-4{
