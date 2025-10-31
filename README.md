@@ -13,9 +13,9 @@ Project Hydroponic farm. For Physical-Computing, IT KMITL. Year 2, semester 1/20
 ประกอบกันเป็นชิ้นงานและเขียนการทำงานด้วยโปรแกรมภาษาซี
 
 ## สมาชิก :  
-###67070032 ชยุต บุญวัฒน์  
-###67070019 จริญญา รัตนพาพร  
-###67070108 พรพรรณ ตรีสังข์ 
+### 67070032 ชยุต บุญวัฒน์  
+### 67070019 จริญญา รัตนพาพร  
+### 67070108 พรพรรณ ตรีสังข์ 
 
 ## <ins>Project Website</ins>
 ### [link](https://tyf-phycom-project.github.io/).
