@@ -20,7 +20,7 @@ Project Hydroponic farm. For Physical-Computing, IT KMITL. Year 2, semester 1/20
   - 67070108 พรพรรณ ตรีสังข์ 
 
 ## <ins>Project Website</ins>
-### [link](https://tyf-phycom-project.github.io/).
+### [link](https://tyf-phycom-project.github.io/)
 
 ## <ins>Video Presentation</ins>
 ### link
