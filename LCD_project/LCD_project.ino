@@ -27,11 +27,15 @@
   Serial.begin(9600);
   lcd.init();
   lcd.backlight();
-
  }
 
  void loop() {
 
+  LCD_command(light_status, water_status);
+ 
+ }
+
+ void LCD_command(int light_status, int water_status){
   if(water_status == 0){
     lcd.createChar(1, water_c); 
     lcd.setCursor(0, 0);
@@ -62,7 +66,6 @@
     lcd.setCursor(2, 1);
     lcd.print("LIGHT: ON");
   }
- 
  }
 
 
