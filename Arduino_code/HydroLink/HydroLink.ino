@@ -84,9 +84,11 @@
    if(button == HIGH){
       if(led_state == HIGH){
         led_state = LOW;
+        light_status = 1;
       }
       else{
         led_state = HIGH;
+        light_status = 0;
       }
    }
 
