@@ -11,8 +11,8 @@ Project Hydroponic farm. For Physical-Computing, IT KMITL. Year 2, semester 1/20
   - บอร์ดอาร์ดุยโน (Arduino)
   - เซนเซอร์วัดระดับน้ำ 
   - ปั๊มน้ำ 
-  - สวิตช์ 
-  - จอแสดงผล <br>
+  - ไฟ (LED)
+  - จอแสดงผล (LCD) <br>
 
 ## สมาชิก : 
   - 67070019 จริญญา รัตนพาพร
