@@ -44,7 +44,7 @@ const int waterSensor = A0;
 const int waterPump_Relay = 5;
 
 int water_level = 0;
-int min_level = 550;
+int min_level = 300;
 
 void setup() {
   Serial.begin(9600);
@@ -93,8 +93,9 @@ void loop() {
 
   //-------------------------WATER CONTROL--------------------------------------
   int water_level = analogRead(waterSensor);//Read water sensor value
+  Serial.println((water_level/100) * 100);
 
-  if(water_level < min_level){//check if current water level below the minimum level
+  if((water_level/100) * 100 < min_level){//check if current water level below the minimum level
     digitalWrite(waterPump_Relay, LOW);//Turn on the water pump
     water_status = 1;
   }
