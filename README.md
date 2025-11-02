@@ -31,7 +31,7 @@ Project Hydroponic farm. For Physical-Computing, IT KMITL. Year 2, semester 1/20
 #### [Github](https://github.com/TYF-Phycom-Project/TYF-Phycom-Project.github.io)
 
 ## <ins>Video Presentation</ins>
-#### link
+#### [Youtube](https://youtu.be/n2WG7LFZ4dY?si=hpK3EtD8FPz5BEFr)
 
 ## <ins>Poster</ins>
 #### [Google Drive](https://drive.google.com/file/d/1JyX3aaq6gQDRB--r-edpkePAhie65P2l/view?usp=sharing)
