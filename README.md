@@ -12,6 +12,7 @@ Project Hydroponic farm. For Physical-Computing, IT KMITL. Year 2, semester 1/20
   - เซนเซอร์วัดระดับน้ำ 
   - ปั๊มน้ำ 
   - ไฟ (LED)
+  - สวิตช์
   - จอแสดงผล (LCD) <br>
 
 ## สมาชิก : 
